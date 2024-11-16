@@ -4,4 +4,4 @@ The lootfilter itself also goes to: Diablo II\Path of Diablo\filter.
 
 
 
-Make sure to download the southpark sounds again because I added some new sounds in version 4.1 of the filter!
+Make sure to download the southpark sounds again because I added some new sounds in version 4.2 of the filter!
